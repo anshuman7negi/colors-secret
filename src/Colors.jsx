@@ -26,7 +26,7 @@ const Colors = () => {
     }
 
     return (
-        <div className="border-2 gap-12 shadow-xl min-h-[90vh] md:min-h-[300px] m-3 p-8 md:m-4 rounded bg-[#3f3f3f] text-[#d9ac4f] flex flex-col items-center">
+        <div className="border-2  gap-12 shadow-xl min-h-[90vh] md:min-h-[300px] m-3 p-8 md:m-4 rounded bg-[#3f3f3f] text-[#d9ac4f] flex flex-col items-center">
             <div className="flex gap-3 flex-col md:flex-row">
                 <label htmlFor="period" className="font-medium text-xl">Enter Last 4 Period Number:</label>
                 <input
